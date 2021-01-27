@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">Money Tracker</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">LOGIN</string>
+    <string name="not_registered_signup">Not registered?</string>
+    <string name="signup">SIGNUP</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="forgot_password"> <u>Forgot Password?</u> </string>
+    <string name="error_email_empty">Please Enter Email</string>
+    <string name="error_empty_password">Please Enter Password</string>
+    <string name="error_empty_cnfpassword">Please Confirm Password</string>
+    <string name="error_passwords_diff">Passwords do not match</string>
+    <string name="cnf_verification_email_sent">Verification E-mail sent</string>
+    <string name="user_created">User created</string>
+    <string name="authentication_failed">Authentication failed</string>
+    <string name="enter_email">Enter your E-mail</string>
+    <string name="error">Some problem occurred</string>
+    <string name="email_sent">E-mail sent</string>
+    <string name="verify_email">Please verify E-mail</string>
+    <string name="money_tracker">Money Tracker</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="invalid_email">Invalid E-mail</string>
+    <string name="username">Username(max 15 characters)</string>
+    <string name="error_empty_username">Please Enter Username</string>
+    <string name="transaction_details">TRANSACTION DETAILS</string>
+    <string name="amount">Amount</string>
+    <string name="type">Type</string>
+    <string name="description">Description</string>
+    <string name="logo">Logo</string>
+    <string name="wait_check_email_registered">Please wait while we check if Email is registered</string>
+    <string name="email_not_registered">Email is not registered</string>
+    <string name="wait_loading_information">Please wait, loading information</string>
+    <string name="error_username_too_long">Username cannot be longer than 15 characters</string>
+    <string name="email_already_registered">Email is already registered</string>
+    <string name="error_username_unavailable">Username unavailable</string>
+
+
+    <string name="node_emails">Emails</string>
+
+    <string name="node_pending_transactions">Pending Transactions</string>
+    <string name="node_amount">amount</string>
+    <string name="node_description">description</string>
+    <string name="node_type">type</string>
+    <string name="node_username">username</string>
+
+    <string name="node_usernames">Usernames</string>
+
+    <string name="node_users">Users</string>
+    <string name="node_email">email</string>
+
+    <string name="node_verified_transactions">Verified Transactions</string>
+</resources>
